@@ -1,6 +1,6 @@
 # Challange-2 Golang
 
-**aku iwan**, telah menyelesaikan Challange 2 Golang.
+**aku iwan**, telah menyelesaikan Challange 2 Golang. kalo ada kurang mohon dilebihkan
 
 btw kak itu first commit nya botak karena ternyata di gitdekstop username nya botak :(
 
