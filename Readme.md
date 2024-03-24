@@ -1,6 +1,7 @@
 # Challange-2 Golang
 
 **aku iwan**, telah menyelesaikan Challange 2 Golang. cuaks
+btw kak itu first commit nya botak karena ternyata di gitdekstop username nya botak :(
 
 Kunjungi [Profil GitHub saya](https://github.com/Zegione) untuk melihat lebih banyak proyek terbengkalai saya.
 
