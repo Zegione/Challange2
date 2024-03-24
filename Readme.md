@@ -9,10 +9,7 @@ Kunjungi [Profil GitHub saya](https://github.com/Zegione) untuk melihat lebih ba
 bang slarkshadow blade kan? itu kenapa dota2 apa ada di?
 
 ---
-![Lumba-lumba]
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/endless-ocean-endlessocean-dolphin-bottlenose-dolphin-loading-gif-22482304">
+![pesan dari Koala]
+![giphy](https://github.com/Zegione/Challange2/assets/118948791/ecc24f14-e892-44cd-9520-05d12c6415a9)
 
----
-![Koala]
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/sherlock-gif-19526043)">
 
