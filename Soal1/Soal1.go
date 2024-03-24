@@ -78,13 +78,25 @@ func main() {
 
 // runBonus calculates average scores for two teams and compares them
 func runBonus(teamName string, team1Scores, team2Scores []int, minScore int) {
+	/*deklarasi fungsi runBonus. Fungsi ini memiliki empat parameter:
+	teamName yang merupakan nama tim yang akan ditampilkan dalam pesan,
+	team1Scores dan team2Scores yang mewakili skor untuk dua tim yang dibandingkan,
+	dan minScore yang merupakan nilai skor minimum yang diperlukan untuk menang. */
 	team1Average := calculateAverage(team1Scores)
 	team2Average := calculateAverage(team2Scores)
+	//fungsi calculateAverage. Fungsi ini menerima slice dari skor tim sebagai argumen dan mengembalikan nilai rata-rata sebagai float64.
 
 	fmt.Printf("Average score for Team %s: %.2f\n", teamName, team1Average)
 	fmt.Printf("Average score for Team Koala: %.2f\n", team2Average)
+	/* mencetak rata-rata skor untuk kedua tim ke layar. %s adalah format specifier untuk string (teamName),
+	dan %.2f adalah format specifier untuk float dengan dua digit desimal (team1Average dan team2Average).*/
 
 	compareScores(teamName, team1Average, minScore)
 	compareScores("Koala", team2Average, minScore)
+	/*membandingkan rata-rata skor untuk kedua tim dengan skor minimum yang diperlukan menggunakan fungsi compareScores.
+		Ini akan mencetak pesan yang sesuai berdasarkan hasil perbandingan.
+
+		fungsi runBonus digunakan untuk menghitung rata-rata skor untuk dua tim dan membandingkannya
+	dengan skor minimum yang diperlukan, serta mencetak pesan yang sesuai berdasarkan hasil perbandingan. */
 
 }

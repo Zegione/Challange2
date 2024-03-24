@@ -28,8 +28,8 @@ func main() {
 	markHigherBMI1 := markBMI1 > johnBMI1
 
 	fmt.Printf("Data 1:\n")
-	fmt.Printf("Mark's BMI: %.2f\n", markBMI1)
-	fmt.Printf("John's BMI: %.2f\n", johnBMI1)
+	fmt.Printf("Mark BMI: %.2f\n", markBMI1)
+	fmt.Printf("John BMI: %.2f\n", johnBMI1)
 	fmt.Printf("Apakah BMI Markk lebih tinggi daripada John? %t\n\n", markHigherBMI1)
 
 	// Data 2
