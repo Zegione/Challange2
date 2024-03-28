@@ -1,11 +1,10 @@
 # Challange-2 Golang
 
-**aku iwan**, telah menyelesaikan Challange 2 Golang. kalo ada kurang mohon dilebihkan
+**aku iwan**, telah menyelesaikan Challange 2 Golang. kalo ada kurang mohon maaf
 
 
 Kunjungi [Profil GitHub saya](https://github.com/Zegione) untuk melihat lebih banyak proyek terbengkalai saya.
 
-bang slarkshadow blade kan? itu kenapa dota2 apa ada di?
 
 Koala berpesan
 ---
